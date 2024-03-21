@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+
+.button{
+    width: 100px;
+    height: 70px;
+    background: rgb(233, 186, 193);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 13px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background: rgb(250, 174, 174);
+}
+
+.box-inativo{
+    display: none;}
+
+.aumentar{
+    width: 400px;
+    height: 400px;
+}
